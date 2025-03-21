@@ -71,7 +71,7 @@ nav {
 }
 
 /* Hero Section */
-.hero {
+.home {
   height: 100vh;
   display: flex;
   align-items: center;
@@ -80,7 +80,7 @@ nav {
 }
 
 
-.hero-content {
+.home-content {
   max-width: 600px;
 }
 .image{
@@ -88,14 +88,14 @@ nav {
   display: flex;
   margin-right: 200px;
 }
-.hero h1 {
+.home h1 {
   font-size: 48px;
   margin-bottom: 20px;
   margin-left: 50px;
   color: #212529;
 }
 
-.hero p {
+.home p {
   font-size: 20px;
   margin-bottom: 30px;
   margin-left: 50px;
@@ -201,18 +201,18 @@ nav {
 }
 
 /* Projects Section */
-.projects {
+.Certificate {
   padding: 100px 0;
   background-color: #fff;
 }
 
-.projects-container {
+.Certificate-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 30px;
 }
 
-.project-card {
+.Certificate-card {
   background-color: #f8f9fa;
   border-radius: 10px;
   overflow: hidden;
@@ -220,11 +220,11 @@ nav {
   transition: transform 0.3s;
 }
 
-.project-card:hover {
+.Certificate-card:hover {
   transform: translateY(-10px);
 }
 
-.project-img {
+.Certificate-img {
   height: 200px;
   background-color: #e9ecef;
   display: flex;
@@ -232,36 +232,36 @@ nav {
   justify-content: center;
 }
 
-.project-content {
+.Certificate-content {
   padding: 20px;
 }
 
-.project-content h3 {
+.Certificate-content h3 {
   font-size: 20px;
   margin-bottom: 10px;
   color: #212529;
 }
 
-.project-content p {
+.Certificate-contentt p {
   margin-bottom: 15px;
   color: #6c757d;
 }
 
-.project-links {
+.Certificate {
   display: flex;
   gap: 10px;
 }
 
-.project-links a {
+.Certificate a {
   background-color: #007bff;
   color: #fff;
   padding: 8px 15px;
   border-radius: 5px;
-  font-size: 14px;
+  font-size: 10px;
   transition: background-color 0.3s;
 }
 
-.project-links a:hover {
+.Certificate a:hover {
   background-color: #0069d9;
 }
 
