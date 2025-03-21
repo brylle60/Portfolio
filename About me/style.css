@@ -134,7 +134,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 50px;
+  gap: 300px;
 }
 
 .about-img {
@@ -150,7 +150,7 @@ nav {
 
 .about-text h3 {
   font-size: 24px;
-  margin-bottom: 20px;
+  margin-bottom: 400px;
   color: #212529;
 }
 
@@ -300,7 +300,7 @@ nav {
 .contact-links a {
   width: 50px;
   height: 50px;
-  background-color: #007bff;
+  background-color: #ffffff;
   color: #fff;
   border-radius: 50%;
   display: flex;
@@ -311,7 +311,7 @@ nav {
 }
 
 .contact-links a:hover {
-  background-color: #0069d9;
+  background-color: #ffffff;
 }
 
 .contact-form {
@@ -325,7 +325,7 @@ nav {
 .form-control {
   width: 100%;
   padding: 12px;
-  border: 1px solid #ced4da;
+  border: 1px solid #ffffff;
   border-radius: 5px;
   font-family: inherit;
   font-size: 16px;
@@ -350,11 +350,11 @@ footer {
       display: none;
   }
   
-  .hero h1 {
+  .home h1 {
       font-size: 36px;
   }
   
-  .hero p {
+  .home p {
       font-size: 18px;
   }
   
